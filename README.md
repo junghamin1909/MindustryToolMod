@@ -39,6 +39,7 @@
 
 ## **Join the Community:**
 
+- **Discord:** [Mindustry Tool](https://discord.gg/fbRQageuGs)
 - **Discord:** [MindustryVN](https://discord.gg/nuSYYJbQ52)
 - **Web:** [Mindustry Tool](https://mindustry-tool.com)
 
